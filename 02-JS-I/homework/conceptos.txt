@@ -1,0 +1,21 @@
+* Variables
+
+Las variables son como un cuaderno de notas donde se guardan datos que queremos recordar luego para poder utilizarlas y sacar conclusiones. 
+En informática, las variables son como las notas, el espacio de memoria de la computadora donde se almacenan es como el cuaderno de notas, y luego con las variables podremos por ejemplo hacer cálculos u obtener información.
+
+* Strings
+
+Los Strings son un tipo de dato de las variables, que es básicamente de tipo texto (cadenas de caracteres, donde los caracteres representan letras y símbolos del lenguaje).
+
+* Funciones (argumentos, `return`)
+
+Las funciones son una serie de pasos a seguir o conjunto de instrucciones la cual puede utilizar variables para combinarlas y obtener un resultado de ella. Es útil para escribir esas instrucciones una única vez y luego llamarla las veces que sea necesario cambiando los valores de las variables. 
+
+* Declaraciones `if`
+
+La declaración 'if' se utiliza para saber (o preguntar) si algo es verdadero o falso, por ejemplo, para saber si una variable numérica es igual a cero, en caso de ser verdadera la sentencia responde con verdadero y si no responde falso.
+
+* Valores booleanos (`true`, `false`)
+
+Los valores booleanos solo pueden ser dos: true (que es verdadero) y false (que es falso), se utiliza con declaraciones 'if'.
+
