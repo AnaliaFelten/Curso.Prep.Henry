@@ -1,0 +1,4 @@
+Arrays
+
+Un array es una estructura de datos conocido que permite almacenar un conjunto de variables, es decir, 
+distinas variables dentro de una sola que sería el array, y cada variable almacenada dentro de ese array es un elemento. 
