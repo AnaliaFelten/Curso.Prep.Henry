@@ -1,0 +1,20 @@
+* Objetos
+
+Un objeto es como una variable que contiene datos almacenados y tareas o métodos que pueden realizar.
+
+* Propiedades
+
+Las propiedades son los datos almacenados que posee un determinado objeto. Pueden ser de diferentes tipos de datos, incluso arrays.
+
+* Métodos
+
+Los métodos los las tareas o conjunto de instrucciones específicas que puede realizar un objeto espefícifo.
+
+* Bucle `for…in`
+
+El bucle for...in es una estructura de control que sirve para recorrer cada atributo con su valor (par clave-valor) de un objeto.
+
+* Notación de puntos vs notación de corchetes
+
+Hay dos maneras de acceder a las propiedades o mñetodos de un objeto. Cuando usamos corchetes permite acceder a propiedades que tienen caracteres no permitidos con la notación de punto.
+Si queremos evitar errores en el código debemos utilizar la notación de corchetes.
